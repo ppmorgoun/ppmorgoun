@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently completing the accelerated Data Science course at Lambda (expected graduation data December 2021)
+- 🌱 I love books, effect altruism, music, data science, and humanity
+- 📫 How to reach me:
+  * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
+
 
 <!--
 **ppmorgoun/ppmorgoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
