@@ -5,6 +5,7 @@
 - 🌱 I love effective altruism, food, books, and humanity
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
+  * ppmorgoun@gmail.com
 
 
 <!--
