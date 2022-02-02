@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently completing the accelerated Data Science course at Lambda (expected graduation data December 2021)
-- 🌱 I love books, effective altruism, music, data science, and humanity
+- 🔭 I’m an ambitious Data Science grad with Tech Lead experience
+- 🤵 Ex-director and co-founder of MyEcoBox (2 years) with 4 years management experience
+- 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
+- 🌱 I love effective altruism, food, books, and humanity
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
 
