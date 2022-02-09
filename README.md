@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m an ambitious Data Science grad with Tech Lead experience
-- 🤵 Ex-director and co-founder of MyEcoBox (2 years) with 4 years management experience
+- 🔭 I’m an ambitious Data Science grad with Technical Project Management experience
+- 🤵 Ex-director and co-founder of MyEcoBox (2 years) - 4 years in Account and Business Development Management  
 - 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
 - 🌱 I love effective altruism, food, books, and humanity
 - 📫 How to reach me:
