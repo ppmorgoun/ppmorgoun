@@ -2,7 +2,7 @@
 - 🔭 I’m an ambitious Data Science grad with Technical Project Management experience
 - 🤵 Ex-director and co-founder of MyEcoBox (2 years) - 4 years in Account and Business Development Management  
 - 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
-- 🌱 I love effective altruism, food, books, and humanity
+- 🌱 I love effective altruism, critcal thinking, books, and humanity
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
   * ppmorgoun@gmail.com
