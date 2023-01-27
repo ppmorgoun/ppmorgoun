@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m an ambitious Data Science grad with Technical Project Management experience
+- 🔭 I’m an Data Scientist grad with 5 years commercial BDM experience
 - 🤵 Ex-director and co-founder of MyEcoBox (2 years) - 4 years in Account and Business Development Management  
 - 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
 - 🌱 I love effective altruism, critcal thinking, books, and humanity
