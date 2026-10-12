@@ -1,12 +1,14 @@
 ### Hi there 👋
-- 🔭 I’m an Data Scientist grad with 5 years commercial BDM experience
-- 🤵 Ex-director and co-founder of MyEcoBox (2 years) - 4 years in Account and Business Development Management  
+- 🔭 Data scientist and AI engineer
+- 🤵 Founder of Wordsmith (wordsmith-app.com), a vocabulary app on iOS and Android
 - 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
-- 🌱 I love effective altruism, critcal thinking, books, and humanity
+- 🌱 I love effective altruism, critical thinking, books, and humanity
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
   * ppmorgoun@gmail.com
 
+Taking contract and part-time data and AI work.
+linkedin.com/in/petrmorgoun · ppmorgoun@gmail.com
 
 <!--
 **ppmorgoun/ppmorgoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
