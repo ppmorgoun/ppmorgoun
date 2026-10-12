@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 Data scientist and AI engineer
-- 🤵 Founder of Wordsmith (wordsmith-app.com), a vocabulary app on iOS and Android
-- 🤖 Real experience building and deploying ML workflows including: NLP, recommender systems, data preprocessing, and more
+- 🔭 I'm a Data scientist and AI engineer
+- 🤵 Founder of Wordsmith (wordsmith-app.com), a vocabulary app on iOS and Android, and My Eco Box (defunct)
+- 🤖 I built media-mix modelling and customer analytics for Sky TV, The Warehouse Group and McDonald's at Annalect and TRACK
 - 🌱 I love effective altruism, critical thinking, books, and humanity
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/petr-morgoun-537101208/)
